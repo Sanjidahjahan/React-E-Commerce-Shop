@@ -3,6 +3,7 @@
 
 **Live Demo**
 - https://sanjidahjahan.github.io/React-E-Commerce-Shop/
+- If the page appears blank, click **Home** in the navigation bar to view the product listing.
 
 **Features**
 - Browse a grid of products on the home page
