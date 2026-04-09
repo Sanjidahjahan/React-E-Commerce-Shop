@@ -5,7 +5,7 @@ import Footer from './Footer';
 import ProductListing from './ProductListing';
 import ProductDetails from './ProductDetails';
 import Cart from './Cart';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 const productsData = require('./products.json');
 
