@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-E-Commerce-Shop/static/css/main.0409914e.css",
+    "main.js": "/React-E-Commerce-Shop/static/js/main.09b63b8e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-E-Commerce-Shop/static/js/787.28cb0dcd.chunk.js",
+    "static/media/product-4.jpg": "/React-E-Commerce-Shop/static/media/product-4.6e0ed739f66c8a11a311.jpg",
+    "static/media/product-7.jpg": "/React-E-Commerce-Shop/static/media/product-7.18cfa629aa2004a547fe.jpg",
+    "static/media/product-1.jpg": "/React-E-Commerce-Shop/static/media/product-1.21e60325882a012401b8.jpg",
+    "static/media/product-3.jpg": "/React-E-Commerce-Shop/static/media/product-3.fde18e7c714bf9f64b91.jpg",
+    "static/media/product-6.jpg": "/React-E-Commerce-Shop/static/media/product-6.0b6ec37c452522afc1d2.jpg",
+    "static/media/product-2.jpg": "/React-E-Commerce-Shop/static/media/product-2.195de2171341bdd00f71.jpg",
+    "static/media/product-5.jpg": "/React-E-Commerce-Shop/static/media/product-5.0b6ff09b9bf38654af13.jpg",
+    "static/media/product-4-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-4-thumb.35042f45483695a37673.jpg",
+    "static/media/product-1-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-1-thumb.1f2b3a10e4e2da464c0f.jpg",
+    "static/media/product-7-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-7-thumb.e419b6914ec059975b59.jpg",
+    "static/media/product-3-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-3-thumb.e4079351ad906b5283e3.jpg",
+    "static/media/product-2-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-2-thumb.f9f08f430be30f93ccd2.jpg",
+    "static/media/product-6-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-6-thumb.ef903d229f01477d42b0.jpg",
+    "static/media/product-5-thumb.jpg": "/React-E-Commerce-Shop/static/media/product-5-thumb.d6f76cd69657a83d4d0c.jpg",
+    "static/media/logo.svg": "/React-E-Commerce-Shop/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "static/media/delete-icn.svg": "/React-E-Commerce-Shop/static/media/delete-icn.77c54b4edf57d2ec167b.svg",
+    "static/media/plus.svg": "/React-E-Commerce-Shop/static/media/plus.9c70d34e13ed77728b9e679e67a15161.svg",
+    "static/media/minus.svg": "/React-E-Commerce-Shop/static/media/minus.d3e522df1204dbb825c6f2cc13900de2.svg",
+    "index.html": "/React-E-Commerce-Shop/index.html",
+    "main.0409914e.css.map": "/React-E-Commerce-Shop/static/css/main.0409914e.css.map",
+    "main.09b63b8e.js.map": "/React-E-Commerce-Shop/static/js/main.09b63b8e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-E-Commerce-Shop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0409914e.css",
+    "static/js/main.09b63b8e.js"
+  ]
+}
