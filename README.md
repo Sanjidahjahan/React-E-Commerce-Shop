@@ -2,7 +2,7 @@
 - A fully functional e-commerce interface built in React, transformed from a static HTML/CSS design into a modular, component-driven shopping experience.
 
 **Live Demo**
-- 
+- https://sanjidahjahan.github.io/React-E-Commerce-Shop/
 
 **Features**
 - Browse a grid of products on the home page
